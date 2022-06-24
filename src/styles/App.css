@@ -1,0 +1,24 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  width: 50%;
+  padding: 20px;
+}
+
+.outer-grid {
+
+}
+
+
+.inner-grid {
+}
+
+.inner-grid img {
+
+}
